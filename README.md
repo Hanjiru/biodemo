@@ -1,5 +1,8 @@
 [![travis](https://travis-ci.org/Hanjiru/biodemo.svg?branch=master)](https://travis-ci.org/Hanjiru/biodemo)
 
+[![codecov](https://codecov.io/github/Hanjiru/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/Hanjiru//biodemo)
+
+
 # Overview 
 
 This program reads one or more input FASTA files. For each file it computes a variety of statistics, and then prints a summary of the statistics as output.
